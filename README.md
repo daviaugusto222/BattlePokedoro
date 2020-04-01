@@ -1,5 +1,6 @@
 # Battle Pokédoro
 ✨
+
 Battle Pokédoro é um mini game de terminal para ser jogado nos intervalos do **Pomodoro**. Logo ele é um jogo rápido para você se divertir um pouco e aliviar o estresse.
 
 A ideia inicial era ser somente uma batalha pokémon mas eu achei interessando uma história diferente com elementos do pomodoro. Além de adicionar elementos dos jogos atuais (Loot box), chamado de Lucky Egg que você poderá ganhar novos pokémons para as suas batalhas.
