@@ -17,6 +17,3 @@ Para o desenvolvimento desse projeto foi utilizado a linguagem Swift na platafor
 
 Você pode testar o mini game neste link. 
 [BattlePokedoro](https://BattlePokemon.davidaugusto222.repl.run)
-
-
-
